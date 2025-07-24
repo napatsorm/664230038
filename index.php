@@ -23,9 +23,15 @@
 <ul>
 <li><a href="W01-01-introPHP.php">Intro PHP</li>
 <li><a href="W02_01_OddEvenNumber.php">Odd-Even_Number</li>
-<li><a href="W02_02_grade.php">Calculafe-Grage</li>
-<li><a href="W02_PHP.php">PHP Calculate Money</li>
+<li><a href="W02_02_grade.php">Calculate-Grade</li>
+<li><a href="W02_PHP.php"> Calculate Sale</li>
+<li><a href="W06_01_loopProduct.php">Show Product (fix data)</li>
+<li><a href=".php">Connect Database</li>
+<li><a href=".php">Show Product (From Database)</li>
 </ul>
+
+
+
 
 
 
