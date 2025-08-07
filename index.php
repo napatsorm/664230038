@@ -26,8 +26,10 @@
 <li><a href="W02_02_grade.php">Calculate-Grade</li>
 <li><a href="W02_PHP.php"> Calculate Sale</li>
 <li><a href="W06_01_loopProduct.php">Show Product (fix data)</li>
-<li><a href=".php">Connect Database</li>
-<li><a href=".php">Show Product (From Database)</li>
+<li><a href="W07_01_connectDB.php">Connect Database</li>
+<li><a href="W07_02_fectchData.php">Fetch Data</li>
+<li><a href="W08_01_ProductformDB.php">Show Product (From Database)</li>
+
 </ul>
 
 
